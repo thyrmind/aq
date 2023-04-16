@@ -30,10 +30,10 @@ input.oninput = function() {
                 teststr = "";
                 teststrval = 0;
                 testword = "";
-                if(textpos+11>textset.length) {
+                if(textpos+26>textset.length) {
                     offend = textset.length;
                 } else {
-                    offend = textpos+11;
+                    offend = textpos+26;
                 }
                 for(offset=textpos;offset<offend;offset++) {
                     testweight = 0;
@@ -91,10 +91,10 @@ input.oninput = function() {
                 teststr = "";
                 teststrval = 0;
                 testword = "";
-                if(textpos+11>textset.length) {
+                if(textpos+26>textset.length) {
                     offend = textset.length;
                 } else {
-                    offend = textpos+11;
+                    offend = textpos+26;
                 }
                 for(offset=textpos;offset<offend;offset++) {
                     testweight = 0;
@@ -152,10 +152,10 @@ input.oninput = function() {
                 teststr = "";
                 teststrval = 0;
                 testword = "";
-                if(textpos+11>textset.length) {
+                if(textpos+26>textset.length) {
                     offend = textset.length;
                 } else {
-                    offend = textpos+11;
+                    offend = textpos+26;
                 }
                 for(offset=textpos;offset<offend;offset++) {
                     testweight = 0;
@@ -213,10 +213,10 @@ input.oninput = function() {
                 teststr = "";
                 teststrval = 0;
                 testword = "";
-                if(textpos+11>textset.length) {
+                if(textpos+26>textset.length) {
                     offend = textset.length;
                 } else {
-                    offend = textpos+11;
+                    offend = textpos+26;
                 }
                 for(offset=textpos;offset<offend;offset++) {
                     testweight = 0;
@@ -274,10 +274,10 @@ input.oninput = function() {
                 teststr = "";
                 teststrval = 0;
                 testword = "";
-                if(textpos+11>textset.length) {
+                if(textpos+26>textset.length) {
                     offend = textset.length;
                 } else {
-                    offend = textpos+11;
+                    offend = textpos+26;
                 }
                 for(offset=textpos;offset<offend;offset++) {
                     testweight = 0;
@@ -335,10 +335,10 @@ input.oninput = function() {
                 teststr = "";
                 teststrval = 0;
                 testword = "";
-                if(textpos+11>textset.length) {
+                if(textpos+26>textset.length) {
                     offend = textset.length;
                 } else {
-                    offend = textpos+11;
+                    offend = textpos+26;
                 }
                 for(offset=textpos;offset<offend;offset++) {
                     testweight = 0;
@@ -396,10 +396,10 @@ input.oninput = function() {
                 teststr = "";
                 teststrval = 0;
                 testword = "";
-                if(textpos+11>textset.length) {
+                if(textpos+26>textset.length) {
                     offend = textset.length;
                 } else {
-                    offend = textpos+11;
+                    offend = textpos+26;
                 }
                 for(offset=textpos;offset<offend;offset++) {
                     testweight = 0;
@@ -457,10 +457,10 @@ input.oninput = function() {
                 teststr = "";
                 teststrval = 0;
                 testword = "";
-                if(textpos+11>textset.length) {
+                if(textpos+26>textset.length) {
                     offend = textset.length;
                 } else {
-                    offend = textpos+11;
+                    offend = textpos+26;
                 }
                 for(offset=textpos;offset<offend;offset++) {
                     testweight = 0;
@@ -518,10 +518,10 @@ input.oninput = function() {
                 teststr = "";
                 teststrval = 0;
                 testword = "";
-                if(textpos+11>textset.length) {
+                if(textpos+26>textset.length) {
                     offend = textset.length;
                 } else {
-                    offend = textpos+11;
+                    offend = textpos+26;
                 }
                 for(offset=textpos;offset<offend;offset++) {
                     testweight = 0;
@@ -579,10 +579,10 @@ input.oninput = function() {
                 teststr = "";
                 teststrval = 0;
                 testword = "";
-                if(textpos+11>textset.length) {
+                if(textpos+26>textset.length) {
                     offend = textset.length;
                 } else {
-                    offend = textpos+11;
+                    offend = textpos+26;
                 }
                 for(offset=textpos;offset<offend;offset++) {
                     testweight = 0;
@@ -640,10 +640,10 @@ input.oninput = function() {
                 teststr = "";
                 teststrval = 0;
                 testword = "";
-                if(textpos+11>textset.length) {
+                if(textpos+26>textset.length) {
                     offend = textset.length;
                 } else {
-                    offend = textpos+11;
+                    offend = textpos+26;
                 }
                 for(offset=textpos;offset<offend;offset++) {
                     testweight = 0;
@@ -701,10 +701,10 @@ input.oninput = function() {
                 teststr = "";
                 teststrval = 0;
                 testword = "";
-                if(textpos+11>textset.length) {
+                if(textpos+26>textset.length) {
                     offend = textset.length;
                 } else {
-                    offend = textpos+11;
+                    offend = textpos+26;
                 }
                 for(offset=textpos;offset<offend;offset++) {
                     testweight = 0;
@@ -762,10 +762,10 @@ input.oninput = function() {
                 teststr = "";
                 teststrval = 0;
                 testword = "";
-                if(textpos+11>textset.length) {
+                if(textpos+26>textset.length) {
                     offend = textset.length;
                 } else {
-                    offend = textpos+11;
+                    offend = textpos+26;
                 }
                 for(offset=textpos;offset<offend;offset++) {
                     testweight = 0;
@@ -823,10 +823,10 @@ input.oninput = function() {
                 teststr = "";
                 teststrval = 0;
                 testword = "";
-                if(textpos+11>textset.length) {
+                if(textpos+26>textset.length) {
                     offend = textset.length;
                 } else {
-                    offend = textpos+11;
+                    offend = textpos+26;
                 }
                 for(offset=textpos;offset<offend;offset++) {
                     testweight = 0;
@@ -866,6 +866,67 @@ input.oninput = function() {
 	    } else {
 	      spiralcount.innerHTML = 0;
 		  spiralmatch.innerHTML = "N/A";
+	    }
+    }
+    var checkBox = document.getElementById("showdevil");
+    if (checkBox.checked == true){
+    	    /* Devil's Work */
+	      textset = devil.split(" ");
+        matchescount = 0;
+        outputmatch = "";
+        teststr = "";
+        testword = "";
+        testchar = "";
+        teststrval = 0;
+        testweight = 0;
+        if(a!==0) {
+            for(textpos=0;textpos<textset.length;textpos++) {
+                teststr = "";
+                teststrval = 0;
+                testword = "";
+                if(textpos+26>textset.length) {
+                    offend = textset.length;
+                } else {
+                    offend = textpos+26;
+                }
+                for(offset=textpos;offset<offend;offset++) {
+                    testweight = 0;
+                    testword = textset[offset];
+                    for(subpos=0;subpos<testword.length;subpos++) {
+                        testchar = testword.substring(subpos,subpos+1);
+                        if(typeof cipher[testchar] !== 'undefined') {
+                            testweight = parseInt(testweight) + parseInt(cipher[testchar]);
+                        } else if(testchar == parseInt(testchar)) {
+                            testweight = parseInt(testweight) + parseInt(testchar);
+                        }
+                    }
+                    if(parseInt(testword)==testword)
+                    {
+                      testweight = parseInt(testword);
+                    }
+                    teststrval = parseInt(teststrval) + parseInt(testweight);
+                    if(teststr)
+                    {
+                      teststr = teststr + " " + testword;
+                    }
+                    else
+                    {
+                      teststr = testword;
+                    }
+                    if(teststrval==a) {
+                        matchescount++;
+                        outputmatch += "<li>"+teststr+"</li>";
+                    }
+                }
+            }
+        }
+	    if (matchescount !== 0) {
+	        devilcount.innerHTML = matchescount;
+	        devilmatch.innerHTML = outputmatch;
+
+	    } else {
+	      devilcount.innerHTML = 0;
+		  devilmatch.innerHTML = "N/A";
 	    }
     }
   }, 666);

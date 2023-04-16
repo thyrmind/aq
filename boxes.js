@@ -97,6 +97,13 @@ function toggleBoxes() {
   } else {
     div.style.display = "none";
   }
+  var checkBox = document.getElementById("showdevil");
+  var div = document.getElementById("devil");
+  if (checkBox.checked == true){
+    div.style.display = "block";
+  } else {
+    div.style.display = "none";
+  }
   input.dispatchEvent(new Event('input'));
 }
 document.addEventListener('DOMContentLoaded', function() {
