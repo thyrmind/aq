@@ -9,8 +9,8 @@ input.oninput = function() {
 
 	    Object.keys(cipher).forEach(function(key) { a += ((input.value).split(key).length - 1)*cipher[key]; });
 
-	    if (/\d/.test(input.value))
-		    a += ((input.value)).match(/\d+/g).map(Number).reduce(function(b, c) { return b + c; }, 0);
+//	    if (/\d/.test(input.value))
+//		    a += ((input.value)).match(/\d+/g).map(Number).reduce(function(b, c) { return b + c; }, 0);
 
 	    result.innerHTML = a;
 
@@ -46,10 +46,10 @@ input.oninput = function() {
                             testweight = parseInt(testweight) + parseInt(testchar);
                         }
                     }
-                    if(parseInt(testword)==testword)
+                    /*if(parseInt(testword)==testword)
                     {
                       testweight = parseInt(testword);
-                    }
+                    }*/
                     teststrval = parseInt(teststrval) + parseInt(testweight);
                     if(teststr)
                     {
@@ -107,10 +107,10 @@ input.oninput = function() {
                             testweight = parseInt(testweight) + parseInt(testchar);
                         }
                     }
-                    if(parseInt(testword)==testword)
+                    /*if(parseInt(testword)==testword)
                     {
                       testweight = parseInt(testword);
-                    }
+                    }*/
                     teststrval = parseInt(teststrval) + parseInt(testweight);
                     if(teststr)
                     {
@@ -168,10 +168,10 @@ input.oninput = function() {
                             testweight = parseInt(testweight) + parseInt(testchar);
                         }
                     }
-                    if(parseInt(testword)==testword)
+                    /*if(parseInt(testword)==testword)
                     {
                       testweight = parseInt(testword);
-                    }
+                    }*/
                     teststrval = parseInt(teststrval) + parseInt(testweight);
                     if(teststr)
                     {
@@ -229,10 +229,10 @@ input.oninput = function() {
                             testweight = parseInt(testweight) + parseInt(testchar);
                         }
                     }
-                    if(parseInt(testword)==testword)
+                    /*if(parseInt(testword)==testword)
                     {
                       testweight = parseInt(testword);
-                    }
+                    }*/
                     teststrval = parseInt(teststrval) + parseInt(testweight);
                     if(teststr)
                     {
@@ -290,10 +290,10 @@ input.oninput = function() {
                             testweight = parseInt(testweight) + parseInt(testchar);
                         }
                     }
-                    if(parseInt(testword)==testword)
+                    /*if(parseInt(testword)==testword)
                     {
                       testweight = parseInt(testword);
-                    }
+                    }*/
                     teststrval = parseInt(teststrval) + parseInt(testweight);
                     if(teststr)
                     {
@@ -351,10 +351,10 @@ input.oninput = function() {
                             testweight = parseInt(testweight) + parseInt(testchar);
                         }
                     }
-                    if(parseInt(testword)==testword)
+                    /*if(parseInt(testword)==testword)
                     {
                       testweight = parseInt(testword);
-                    }
+                    }*/
                     teststrval = parseInt(teststrval) + parseInt(testweight);
                     if(teststr)
                     {
@@ -412,10 +412,10 @@ input.oninput = function() {
                             testweight = parseInt(testweight) + parseInt(testchar);
                         }
                     }
-                    if(parseInt(testword)==testword)
+                    /*if(parseInt(testword)==testword)
                     {
                       testweight = parseInt(testword);
-                    }
+                    }*/
                     teststrval = parseInt(teststrval) + parseInt(testweight);
                     if(teststr)
                     {
@@ -473,10 +473,10 @@ input.oninput = function() {
                             testweight = parseInt(testweight) + parseInt(testchar);
                         }
                     }
-                    if(parseInt(testword)==testword)
+                    /*if(parseInt(testword)==testword)
                     {
                       testweight = parseInt(testword);
-                    }
+                    }*/
                     teststrval = parseInt(teststrval) + parseInt(testweight);
                     if(teststr)
                     {
@@ -534,10 +534,10 @@ input.oninput = function() {
                             testweight = parseInt(testweight) + parseInt(testchar);
                         }
                     }
-                    if(parseInt(testword)==testword)
+                    /*if(parseInt(testword)==testword)
                     {
                       testweight = parseInt(testword);
-                    }
+                    }*/
                     teststrval = parseInt(teststrval) + parseInt(testweight);
                     if(teststr)
                     {
@@ -595,10 +595,10 @@ input.oninput = function() {
                             testweight = parseInt(testweight) + parseInt(testchar);
                         }
                     }
-                    if(parseInt(testword)==testword)
+                    /*if(parseInt(testword)==testword)
                     {
                       testweight = parseInt(testword);
-                    }
+                    }*/
                     teststrval = parseInt(teststrval) + parseInt(testweight);
                     if(teststr)
                     {
@@ -656,10 +656,10 @@ input.oninput = function() {
                             testweight = parseInt(testweight) + parseInt(testchar);
                         }
                     }
-                    if(parseInt(testword)==testword)
+                    /*if(parseInt(testword)==testword)
                     {
                       testweight = parseInt(testword);
-                    }
+                    }*/
                     teststrval = parseInt(teststrval) + parseInt(testweight);
                     if(teststr)
                     {
@@ -717,10 +717,10 @@ input.oninput = function() {
                             testweight = parseInt(testweight) + parseInt(testchar);
                         }
                     }
-                    if(parseInt(testword)==testword)
+                    /*if(parseInt(testword)==testword)
                     {
                       testweight = parseInt(testword);
-                    }
+                    }*/
                     teststrval = parseInt(teststrval) + parseInt(testweight);
                     if(teststr)
                     {
@@ -778,10 +778,10 @@ input.oninput = function() {
                             testweight = parseInt(testweight) + parseInt(testchar);
                         }
                     }
-                    if(parseInt(testword)==testword)
+                    /*if(parseInt(testword)==testword)
                     {
                       testweight = parseInt(testword);
-                    }
+                    }*/
                     teststrval = parseInt(teststrval) + parseInt(testweight);
                     if(teststr)
                     {
@@ -839,10 +839,10 @@ input.oninput = function() {
                             testweight = parseInt(testweight) + parseInt(testchar);
                         }
                     }
-                    if(parseInt(testword)==testword)
+                    /*if(parseInt(testword)==testword)
                     {
                       testweight = parseInt(testword);
-                    }
+                    }*/
                     teststrval = parseInt(teststrval) + parseInt(testweight);
                     if(teststr)
                     {
@@ -900,10 +900,10 @@ input.oninput = function() {
                             testweight = parseInt(testweight) + parseInt(testchar);
                         }
                     }
-                    if(parseInt(testword)==testword)
+                    /*if(parseInt(testword)==testword)
                     {
                       testweight = parseInt(testword);
-                    }
+                    }*/
                     teststrval = parseInt(teststrval) + parseInt(testweight);
                     if(teststr)
                     {
